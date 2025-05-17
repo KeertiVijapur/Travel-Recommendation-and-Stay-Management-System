@@ -1,0 +1,5 @@
+com\tourism\tourismrecommenderproject\service\Destination.class
+com\tourism\tourismrecommenderproject\controller\WebController.class
+DatabaseUtil.class
+com\tourism\tourismrecommenderproject\model\User.class
+com\tourism\tourismrecommenderproject\service\RecommenderService.class
